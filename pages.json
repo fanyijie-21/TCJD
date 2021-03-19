@@ -1,0 +1,353 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/find/find",
+		"style": {
+			"navigationBarTitleText": "体验",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/cart/cart",
+		"style": {
+			"navigationBarTitleText": "订单",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/mine/mine",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/news/news",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "最新上线",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/reservation/reservation",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预定指南",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/customer/customer",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "专属客服",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hotel/hotel",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "酒店合集",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/cities/cities",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "开放城市",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/reservationList/reservationList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预定榜单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/prize/prize",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "天天抽奖",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/welfare/welfare",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新人福利",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/questions/questions",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "常见问题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/sleep/sleep",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "试睡专区",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/winter/winter",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "冬季福利",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "搜索",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/citiesList/citiesList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "城市列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hotelDetails/hotelDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "酒店详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/trafficGuidance/trafficGuidance",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "交通指南",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/map/map",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "地图",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/viewAllphotos/viewAllphotos",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "全部图片",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/toViewmore/toViewmore",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "更多",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/viewDetails/viewDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订房必读",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/shouquan/shouquan",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/biji/biji",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "笔记",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/finddetail/finddetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "体验详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/center",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "兑换中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/coupon",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "优惠详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/hands",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "酒店合作",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/join",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "开通会员",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/myQR",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "添加好友",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/notice",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "程客须知",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/qusetion",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "常见问题",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/service",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "专属客服",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/setting",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人设置",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "首页",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#000000",
+		"selectedColor": "#ee8e67",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/icons/index.png",
+				"selectedIconPath": "static/icons/index1.png"
+			},
+			{
+				"pagePath": "pages/find/find",
+				"text": "体验",
+				"iconPath": "static/icons/find.png",
+				"selectedIconPath": "static/icons/find1.png"
+			},
+			{
+				"pagePath": "pages/cart/cart",
+				"text": "订单",
+				"iconPath": "static/icons/cart.png",
+				"selectedIconPath": "static/icons/cart1.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/icons/mine.png",
+				"selectedIconPath": "static/icons/mine1.png"
+			}
+		]
+	}
+}
